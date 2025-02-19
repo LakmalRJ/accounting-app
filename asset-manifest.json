@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accounting-app/static/css/main.e4ce52f0.css",
+    "main.js": "/accounting-app/static/js/main.ac7684a1.js",
+    "static/js/453.d7bfce1e.chunk.js": "/accounting-app/static/js/453.d7bfce1e.chunk.js",
+    "index.html": "/accounting-app/index.html",
+    "main.e4ce52f0.css.map": "/accounting-app/static/css/main.e4ce52f0.css.map",
+    "main.ac7684a1.js.map": "/accounting-app/static/js/main.ac7684a1.js.map",
+    "453.d7bfce1e.chunk.js.map": "/accounting-app/static/js/453.d7bfce1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ce52f0.css",
+    "static/js/main.ac7684a1.js"
+  ]
+}
