@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2025-02-18",
+    "type": "Invoice",
+    "number": "INV/2506",
+    "reference": "INV/2506",
+    "amount": 25000,
+    "comments": "",
+    "supplier": "Chanaka"
+  },
+  {
+    "date": "2025-02-20",
+    "type": "Payment",
+    "number": "12560",
+    "reference": "INV/2506",
+    "amount": 10000,
+    "comments": "",
+    "supplier": "Chanaka"
+  },
+  {
+    "date": "2025-02-21",
+    "type": "Credit Note",
+    "number": "CN 1405",
+    "reference": "INV/2506",
+    "amount": 2500,
+    "comments": "",
+    "supplier": "Chanaka"
+  },
+  {
+    "date": "2025-02-04",
+    "type": "Invoice",
+    "number": "INV 2410",
+    "reference": "INV 2410",
+    "amount": 150000,
+    "comments": "",
+    "supplier": "Heshan"
+  },
+  {
+    "date": "2025-02-27",
+    "type": "Payment",
+    "number": "PV 1526",
+    "reference": "INV 2410",
+    "amount": 56000,
+    "comments": "",
+    "supplier": "Heshan"
+  },
+  
+  {
+    "date": "2025-02-16",
+    "type": "Opening Balance",
+    "number": "",
+    "reference": "",
+    "amount": 5000,
+    "comments": "",
+    "supplier": "Chanaka"
+  },
+  
+  {
+    "date": "2025-02-01",
+    "type": "Opening Balance",
+    "number": "",
+    "reference": "",
+    "amount": 2560,
+    "comments": "",
+    "supplier": "Heshan"
+  }
+]
